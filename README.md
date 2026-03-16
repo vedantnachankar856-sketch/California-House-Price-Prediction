@@ -1,9 +1,3 @@
-Here is a **professional README.md** you can directly paste into your GitHub repository for your Streamlit app:
-[https://california-house-price-prediction-vedant.streamlit.app/](https://california-house-price-prediction-vedant.streamlit.app/)
-
-I wrote it in **proper GitHub markdown** so it looks clean in your portfolio.
-
----
 
 # 🏠 California Housing Price Prediction using XGBoost
 
@@ -103,7 +97,7 @@ california-housing-xgboost-prediction
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/yourusername/california-housing-xgboost-prediction.git
+git clone https://github.com/vedantnachankar856-sketch/california-housing-xgboost-prediction.git
 ```
 
 ### 2️⃣ Install dependencies
@@ -149,9 +143,8 @@ This project is deployed using **Streamlit Cloud**, which allows easy deployment
 
 ⭐ If you like this project, consider **starring the repository**!
 
----
 
-If you want, I can also give you a **🔥 much more impressive README (with badges, demo GIF, ML pipeline diagram, and screenshots)** that makes recruiters notice your project immediately.
+
 
 [1]: https://inria.github.io/scikit-learn-mooc/python_scripts/datasets_california_housing.html?utm_source=chatgpt.com "The California housing dataset — Scikit-learn course"
 [2]: https://www.geeksforgeeks.org/machine-learning/xgboost-for-regression/?utm_source=chatgpt.com "XGBoost for Regression - GeeksforGeeks"
