@@ -1,5 +1,5 @@
 Here is a **professional README.md** you can directly paste into your GitHub repository for your Streamlit app:
-[https://california-housing-xgboost-prediction-abhishek.streamlit.app/](https://california-housing-xgboost-prediction-abhishek.streamlit.app/)
+[https://california-house-price-prediction-vedant.streamlit.app/](https://california-house-price-prediction-vedant.streamlit.app/)
 
 I wrote it in **proper GitHub markdown** so it looks clean in your portfolio.
 
